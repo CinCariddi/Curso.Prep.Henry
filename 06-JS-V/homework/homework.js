@@ -54,7 +54,6 @@ function agregarStringInvertida() {
     //   Edad: 22,
     //   Domicilio: 'Saavedra 123'
     //  }
-
   class Persona {
     constructor(nombre, apellido, edad, domicilio) {
       // Crea el constructor:
@@ -89,7 +88,6 @@ function agregarMetodo() {
   }
 }
   
-
 // No modificar nada debajo de esta línea
 // --------------------------------
 
